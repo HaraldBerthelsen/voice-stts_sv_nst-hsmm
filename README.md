@@ -1,6 +1,6 @@
 # voice-stts_sv_nst-hsmm
 
-A male Swedish hidden semi-Markov model voice build from data at http://www.nb.no/sprakbanken
+A male Swedish hidden semi-Markov model voice, built from data at http://www.nb.no/sprakbanken
 
 ## Prerequisites
 
