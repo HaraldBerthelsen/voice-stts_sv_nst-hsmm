@@ -28,6 +28,14 @@ Copy the zip file and xml descriptor into your MaryTTS installation's `download`
 
 ### Running the voice
 
+NOTE
+
+This doesn't work, because the Swedish language files have not yet been merged into marytts/marytts.
+For now, clone HaraldBerthelsen/marytts, build it, and install this voice or copy it to build/install/marytts/lib/
+
+END NOTE
+
+
 To build the voice and run it in an ad-hoc MaryTTS server, do
 ```
 $ ./gradlew run
